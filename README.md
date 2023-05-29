@@ -5,7 +5,8 @@ Dear Everyone, I have just created a dashboard of a Madhav local store vendor su
 
 
 Project- key-points were : Data collection, cleaning, wrangling, modeling, visualization, Dashboard design, Sharing insights etc.
-﻿Project Learnings: 
+
+Project Learnings: 
 Created interactive dashboard to track and analyze online sales data
 Used complex parameters to drill down in worksheet and customization using filters and slicers
 Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
