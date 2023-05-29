@@ -1,6 +1,9 @@
 # Interactive_DashBoard_PowerBI-Business_Data
 Using MicroSoft PowerBi Interactive DashBoard for Business Analyst
 Dear Everyone, I have just created a dashboard of a Madhav local store vendor such that the owner can track and analyze their online sales across India.
+
+
+
 Project- key-points were : Data collection, cleaning, wrangling, modeling, visualization, Dashboard design, Sharing insights etc.
 ﻿Project Learnings: 
 Created interactive dashboard to track and analyze online sales data
